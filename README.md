@@ -9,9 +9,9 @@
 
 - ⚡ Fun fact **more Coffee == faster and better work**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Visit my website c:</h3>
 <p align="left">
-<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JustMiraii#8973" height="30" width="40" /></a>
+<a href="miraiis-chernobyl.great-site.net" target="blank"><img align="center"alt="JustMiraii#8973" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
