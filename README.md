@@ -11,7 +11,7 @@
 
 <h3 align="left">Visit my website c:</h3>
 <p align="left">
-<a href="miraiis-chernobyl.great-site.net" target="blank"><img align="center"alt="JustMiraii#8973" height="30" width="40" /></a>
+<a href="miraiis-chernobyl.great-site.net" target="blank"><img align="center" scr"https://www.freepnglogos.com/uploads/logo-website-png/logo-website-world-wide-web-icon-icons-and-png-backgrounds-18.png" alt="JustMiraii#8973" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
