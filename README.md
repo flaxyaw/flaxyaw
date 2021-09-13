@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JustMiraii&label=Profile%20views&color=ff0d00&style=flat" alt="JustMiraii" /> </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=IamUndetected0&theme=tokyonight&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=IamUndetected&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamUndetected&theme=tokyonight)
 
