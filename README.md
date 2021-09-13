@@ -2,9 +2,14 @@
 <h3 align="center">Café is what drives me</h3>
 <h3 align="center">2b2t.group :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JustMiraii&label=Profile%20views&color=ff0d00&style=flat" alt="JustMiraii" /> </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamUndetected)
+
+# Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IamUndetected&theme=tokyonight&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamUndetected&theme=tokyonight)
+
 
 
 - 🔭 I’m currently working on **IMGUI REMAKES**
