@@ -6,7 +6,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=IamUndetected&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamUndetected&theme=tokyonight)
 
 - 🔭 I’m currently working on **IMGUI REMAKES**
 
