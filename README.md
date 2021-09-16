@@ -1,6 +1,5 @@
 <h1 align="center">Hey man! 👋, I'm Miraii</h1>
 <h3 align="center">Café is what drives me</h3>
-<h3 align="center">2b2t.group :)</h3>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=IamUndetected)
 
@@ -12,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **IMGUI REMAKES**
+- 🔭 I’m currently working on **IMGUI REMAKES + MC CLIENTS**
 
 - 📫 How to reach me **Discord: JustMiraii#8973**
 
