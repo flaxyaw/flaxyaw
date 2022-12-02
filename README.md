@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **IMGUI REMAKES + MC CLIENTS**
 
-- 📫 How to reach me **Discord: JustMiraii#8973**
+- 📫 How to reach me **Discord: Bonez#1337**
 
 - ⚡ Fun fact **more Coffee == faster and better work**
 
 <h3 align="left">Visit my website c:</h3>
 <p align="left">
-<a href="https://iamundetected.github.io" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-world-wide-web-icon-icons-and-png-backgrounds-18.png" alt="JustMiraii#8973" height="30" width="40" /></a>
+<a href="https://flaxyaw.de" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-world-wide-web-icon-icons-and-png-backgrounds-18.png" alt="Bonez#1337" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
