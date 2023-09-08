@@ -1,9 +1,4 @@
-## about me
-```
-doing some stuff
-
-discord | 250p 
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome.;Hope+you+enjoy.;DC%3A+fakehead)](https://git.io/typing-svg)
 
 ## devil speaking.
 ```
