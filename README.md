@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome.;Hope+you+enjoy.;DC%3A+fakehead)](https://git.io/typing-svg)
+qTox ID: 6BC1EE9554CF36B207F31FC85BBCEF70B52C3891AC9807061A8E2501A8FF211DAF9BBE23CA28
+DC: fakehead
+PGP: 
+mail: admin@flaxyaw.de
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
