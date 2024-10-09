@@ -2,7 +2,7 @@ qTox ID: -removed due to inactivity. for secure contact please refer to the PGP 
 
 DC: fakehead 
 
-PGP: Fingerprint: 95E53521D7C53DFA61665C85A6BDDFCC99703008
+PGP: Fingerprint: admin@flaxyaw.de
 
 mail: admin@flaxyaw.de 
 
