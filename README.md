@@ -4,7 +4,7 @@ DC: fakehead
 
 PGP: Fingerprint: 95E5 3521 D7C5 3DFA 6166  5C85 A6BD DFCC 9970 3008
 
-mail: admin@flaxyaw.de 
+mail: 
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣷⣤⣾⡇⠀⠀⠀
